@@ -9,5 +9,5 @@ Localização das Jázidas e Minas no Estado Mineiro.
 
 Mapa das Usinas de Cana de Açucar no Brasil
 
-![image](https://user-images.githubusercontent.com/94941961/177512151-85974f9e-202b-4b8c-ad1e-240f53f69072.png)
+![image](https://user-images.githubusercontent.com/94941961/177512329-580402b5-3393-4968-aa5a-7a993d847aad.png)
 
